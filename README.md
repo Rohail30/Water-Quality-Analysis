@@ -4,7 +4,7 @@
 
 ### Introduction
 
-This report focuses on the analysis and prediction of water quality using a dataset containing concentrations of various contaminants. Ensuring safe drinking water is crucial for public health, and predictive models can help in early detection of water safety issues. To achieve this, we utilized several machine learning algorithms to classify water samples as safe or unsafe. The chosen algorithms include Decision Tree, Multi-Layer Perceptron (MLP), K-Nearest Neighbors (KNN), and Logistic Regression. Each of these algorithms offers unique advantages and challenges, which are explored in the context of this dataset. This report provides an overview of the dataset and a brief explanation of each algorithm's methodology and suitability for the task.
+This project focuses on the analysis and prediction of water quality using a dataset containing concentrations of various contaminants. Ensuring safe drinking water is crucial for public health, and predictive models can help in early detection of water safety issues. To achieve this, we utilized several machine learning algorithms to classify water samples as safe or unsafe. The chosen algorithms include Decision Tree, Multi-Layer Perceptron (MLP), K-Nearest Neighbors (KNN), and Logistic Regression. Each of these algorithms offers unique advantages and challenges, which are explored in the context of this dataset. This report provides an overview of the dataset and a brief explanation of each algorithm's methodology and suitability for the task.
 
 ---
 
